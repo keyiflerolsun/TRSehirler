@@ -1,2 +1,2 @@
 PyYAML==5.4.1
-tinydb==4.4.0
+tinydb==4.5.1
